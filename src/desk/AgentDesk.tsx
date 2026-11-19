@@ -102,9 +102,6 @@ export default function AgentDesk() {
             ))}
           </ol>
         </article>
-        <a className="desk-link" href="?studio=1">
-          陶器演示
-        </a>
       </section>
       <section className="desk-stage" aria-label="鞋子与包装的立体预览">
         {webgl ? (
